@@ -8,6 +8,6 @@ The goal of this project is to study, evaluate, and reproduce the results of the
 
 ## Folder Descriptions
 
-*   `DiffDock`: This folder contains the original, unmodified source code and data from the DiffDock repository.
-*   `DiffDockL`: This folder contains the latest, modified version of the DiffDock code, which is the focus of our project work. The "L" stands for "Latest".
+*   `DiffDock`: This folder contains the original, unmodified source code and data from the DiffDock repository. This will be the main focus of our replication efforts.
+*   `DiffDockL`: This folder contains the latest, modified version of the DiffDock code, which is a potential testing avenue for future project work.
 *   `project-work`: This folder contains project-related documents, such as the project description, reports, and task lists.
